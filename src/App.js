@@ -121,7 +121,7 @@ export default function App() {
         <footer>
           <ul>
             <li className="footerLink">
-              <a href="https://github.com/Rohan-154">
+              <a href="https://github.com/Rohan-154/Is-your-birthdate-lucky">
                 <i className="fab fa-github" aria-hidden="true"></i>
               </a>
             </li>
